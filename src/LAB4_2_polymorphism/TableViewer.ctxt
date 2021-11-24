@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TableViewer
+comment1.params=codes\ values
+comment1.target=TableViewer(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=rows\ cols
+comment2.target=void\ viewTable(int,\ int)
+numComments=3

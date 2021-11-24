@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NamedButtons
+comment1.params=name\ code
+comment1.target=NamedButtons(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getAction()
+comment3.params=action
+comment3.target=void\ setAction(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
